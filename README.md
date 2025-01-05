@@ -7,3 +7,6 @@ Data science project
 3. R Programming
 4. Looker GA4 Dashboard
 5. LInear regression Model using caret
+
+## Contact Me
+reach out to me at jump@datarockie.com
